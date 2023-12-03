@@ -1,0 +1,7 @@
+Glucose : 120
+Blood Pressure : 70
+Skin Thickness : 20
+Insulin : 79
+BMI : 32
+Diabetes Pedigree Function : 0.5
+Age : 45
